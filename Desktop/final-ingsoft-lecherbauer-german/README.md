@@ -1,4 +1,4 @@
-# Final Ingeniería de Software
+# Entrega final del proyecto.
 
 Proyecto mínimo desarrollado para el final de la materia Ingeniería de Software.
 
@@ -27,3 +27,4 @@ docker run -d -p 8080:80 --name final-ingsoft-container final-ingsoft
 
 ### Acceso desde el navegador
 http://localhost:8080
+
